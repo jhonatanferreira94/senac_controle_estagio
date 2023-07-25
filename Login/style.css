@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imagem{
+    width: 50%;
+    background-color: bisque;
+    height: 100%;
+}
+
+.input{
+    width: 50%;
+    background-color: aqua;
+}
